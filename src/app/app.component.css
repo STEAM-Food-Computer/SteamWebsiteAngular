@@ -1,0 +1,30 @@
+.main-content{
+    margin-top: 55px;
+}
+
+footer{
+    background-color: black;
+    width: 100%;
+    vertical-align: middle;
+}
+
+footer a{
+    font-size: 40px;
+    padding-right: 12px;
+}
+
+footer > .row > .col{
+    line-height: 3;
+}
+
+
+.center-text{
+    text-align: center;
+}
+
+.small-logo{
+    width:70px;
+    height: 90px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
